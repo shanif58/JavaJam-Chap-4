@@ -51,4 +51,31 @@ img { padding-left:10px;
 footer {background-color: #D2B48C;
        font-size: .60em;
        font-style: italic;
+       text-align: center;
+       padding-bottom: 1em;
+       border-top: 2px soild #8C3826;
+}
+body{ background-color: #FCEBB6;
+      background-image: url (fadedroad50.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background attachments: fixed;
+      color: #221811;
+      font-family: Tahoma,Arial,sans-serif;
+}
+#wrapper {background-color: #FEFAEB;
+          margin-left: auto;
+          margin-right: auto;
+          width:80%
+          min-width: 900px;
+          max-width: 1280px;
+          box-shadow: 3px 3px 3px #676767;
+}
+header {background-color: #D2B48C;
+       color: #8C3826;
+       text-align: center;
+       padding-top: 5px;
+       padding-bottom:5px;
+}
+       
      
