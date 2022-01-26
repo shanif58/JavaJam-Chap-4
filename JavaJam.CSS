@@ -44,5 +44,11 @@ main{ display: block;
 img { padding-left:10px;
   padding-right: 10px; }
 #homehero {height:300px;
-           background-image
+          background-image: url(hero.jpg);
+          background-repeat: no-repeat;
+          background-size: cover;
+}
+footer {background-color: #D2B48C;
+       font-size: .60em;
+       font-style: italic;
      
